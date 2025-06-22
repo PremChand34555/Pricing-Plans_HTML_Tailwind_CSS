@@ -2,6 +2,10 @@
 
 A modern, responsive pricing table page built with HTML, Tailwind CSS, and Alpine.js.
 
+# Preview
+![image](https://github.com/user-attachments/assets/4fac2dd5-29ec-4b3a-8e3a-0812fd1fc007)
+
+
 ## Features
 
 - Responsive design that works on all devices
